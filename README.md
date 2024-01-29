@@ -17,7 +17,7 @@ cd "your_repo"
 
 - Clone the git :
 
-```shell
+```shellfeaefaz
 git clone https://github.com/Fritober/Eureka-Johan_Liu-CDOF4
 ```
 
